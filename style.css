@@ -1,0 +1,187 @@
+/*=================================================================================
+ [Reset]
+=================================================================================*/
+
+html, body, address, blockquote, div, dl, form, h1, h2, h3, h4, h5, h6, ol, p, pre, table, ul,
+dd, dt, li, tbody, td, tfoot, th, thead, tr, button, del, ins, map, object,
+a, abbr, acronym, b, bdo, big, br, cite, code, dfn, em, i, img, kbd, q, samp, small, span,
+strong, sub, sup, tt, var, legend, fieldset
+{
+	margin: 0;
+	padding: 0;
+}
+
+img, fieldset
+{
+	border: 0;
+}
+
+/* set image max width to 100% */
+img
+{
+	max-width: 100%;
+	height: auto;
+	width: auto\9; /* ie8 */
+	margin-bottom: -3px;
+}
+
+/* set html5 elements to block */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section
+{ 
+	display: block;
+}
+
+/* reset webkit search input styles */
+input
+{
+	-webkit-appearance: none;
+	outline: none;
+}
+
+input::-webkit-search-decoration, 
+input::-webkit-search-cancel-button
+{
+	display: none;
+}
+
+/*===============================================================================*/
+
+/*=================================================================================
+ [Common]
+=================================================================================*/
+
+body
+{
+	background: #d7dade;
+	font-family: Avant;
+	color: #383d51;
+	/*overflow-y: scroll;*/
+	text-align: center;
+}
+
+img
+{
+	border: none;
+}
+
+a
+{
+	color: #383d51;
+	text-decoration: none;
+	outline: none;
+}
+
+a:hover
+{
+	text-decoration: underline;
+	color: #383d51;
+}
+
+select
+{
+	background: none;
+	border: none;
+	width: 100%;
+	height: 25px;
+	text-align: center;
+}
+
+input[type="text"]
+{
+	background: none;
+	width: 99%;
+	height: 25px;
+	border: none;
+	text-align: right;
+}
+
+input:-moz-read-only { /* For Firefox */
+	cursor: not-allowed;
+}
+
+input:read-only {
+	cursor: not-allowed;
+}
+
+fieldset
+{
+	border: 2px #383d51 solid;
+	width: 40%;
+	margin: 20px auto 5px;
+	padding-left: 0px;
+	padding-top: 0px;
+	text-align: left;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-khtml-border-radius: 5px;
+}
+
+fieldset legend
+{
+	color: #383d51;
+	text-transform: uppercase;
+	font-weight: bold;
+	margin-left: 20px;
+	padding: 5px;
+	padding-bottom: 0px;
+}
+
+fieldset b
+{
+	color: #ffffff
+}
+
+/*===============================================================================*/
+
+/*=================================================================================
+ [Div Table]
+=================================================================================*/
+
+.divTable{
+	display: table;
+	width: 100%;
+}
+.divTableRow {
+	display: table-row;
+}
+.divTableCell, .divTableHead {
+	border: 1px solid #383d51;
+	border-top: none;
+	border-left: none;
+	display: table-cell;
+	padding-right: 2px;
+}
+
+.divTableCell:nth-child(4n), .divTableHead:nth-child(4n) {
+    border-right: none;
+}
+
+.divTableCell2, .divTableHead2 {
+	border: 1px solid #383d51;
+	border-top: none;
+	border-left: none;
+	display: table-cell;
+	padding-right: 2px;
+}
+
+.divTableCell2:nth-child(2n), .divTableHead2:nth-child(2n) {
+    border-right: none;
+}
+
+.divTableHeading {
+	display: table-header-group;
+	font-weight: bold;
+	text-align: center;
+}
+
+.divTableBody {
+	display: table-row-group;
+}
+
+.divTableFoot {
+	display: table-footer-group;
+	font-weight: bold;
+}
+
+/*===============================================================================*/
