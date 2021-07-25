@@ -5,7 +5,7 @@
 
 <h1>:page_facing_up: Description <a href="#-kcs-cash-availability" title="Go to Navigation">[↑]</a></h1>
 
-* This application imitates cash availability for the day and automatically calculates the values of certain fields.
+* This web application imitates cash availability for the day and automatically calculates the values of certain fields.
 
 <br />
 
