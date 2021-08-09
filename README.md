@@ -25,4 +25,4 @@ v1.0b: First Release.
 <br />
 
 <h1>:copyright: Copyright <a href="#-kcs-cash-availability" title="Go to Navigation">[↑]</a></h1>
-© KC &#128640; Kristian Cenow. All rights reserved. KC® Logo and all related elements are trademarks of and © Kristian Cenow. All other trademarks are property of their respective owners.
+© Kristian Cenow &#128640; KC. All rights reserved. KC® Logo and all related elements are trademarks of and © Kristian Cenow. All other trademarks are property of their respective owners.
