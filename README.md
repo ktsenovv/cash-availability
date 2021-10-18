@@ -11,7 +11,7 @@
 
 <h1>:milky_way: Preview <a href="#-kcs-cash-availability" title="Go to Navigation">[↑]</a></h1>
 
-<h4><img src="https://raw.githubusercontent.com/kcenow/cash-availability/main/Preview/Preview.jpg"><br />
+<h4><img src="https://raw.githubusercontent.com/kcenow/cash-availability/main/preview/preview.jpg"><br />
 (Picture)</h4>
 
 <br />
