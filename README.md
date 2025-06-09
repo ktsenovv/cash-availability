@@ -25,4 +25,4 @@ v1.0b: First Release.
 <br />
 
 <h1>:copyright: Copyright <a href="#-kcs-cash-availability" title="Go to Navigation">[↑]</a></h1>
-© Kristian Tsenov. All rights reserved. K® Logo and all related elements are trademarks of and © Kristian Tsenov.
+© Kristian Tsenov. All rights reserved. K® Logo and all related elements are trademarks of and © Kristian Tsenov. All other trademarks are property of their respective owners.
